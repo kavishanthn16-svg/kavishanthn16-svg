@@ -51,11 +51,12 @@
 
 ### 📌 Featured Projects
 
-#### 🚚 [FleetPro – Vehicle Fleet Management System](https://github.com/kavishanthn16-svg)
+#### 🚚 [FleetPro – Vehicle Fleet Management System](https://vfms-blond.vercel.app/auth/login)
 A full-stack fleet management platform for managing drivers, staff, and vehicle operations.
 - Built with **Spring Boot**, **Next.js (React)**, **Tailwind CSS**, and **PostgreSQL**
 - Features REST APIs for driver/staff records, a responsive dark-mode UI, and role-based access control for admins, approvers, staff, and drivers
 - Backend packaged with **Maven** and deployed on **AWS Elastic Beanstalk**
+- 🔗 [Live Demo](https://vfms-blond.vercel.app/auth/login)
 
 ---
 
