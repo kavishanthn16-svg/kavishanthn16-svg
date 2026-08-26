@@ -62,12 +62,12 @@ A full-stack fleet management platform for managing drivers, staff, and vehicle 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavishanthn16-svg&show_icons=true&theme=default&count_private=true" alt="Kavishanth's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavishanthn16-svg&theme=default" alt="Kavishanth's GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kavishanthn16-svg&show_icons=true&theme=default&count_private=true&cache_seconds=1800" alt="Kavishanth's GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=kavishanthn16-svg&theme=default" alt="Kavishanth's GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavishanthn16-svg&layout=compact&theme=default" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavishanthn16-svg&layout=compact&theme=default&cache_seconds=1800" alt="Top Languages" height="165"/>
 </p>
 
 ---
