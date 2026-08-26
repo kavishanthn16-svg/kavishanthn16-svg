@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Kavishanth 👋
 
-<!--
-**kavishanthn16-svg/kavishanthn16-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Technology Undergraduate  
+💻 Software Developer  
+🚀 Interested in Full-Stack Development
 
-Here are some ideas to get you started:
+## 🛠️ Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Spring Boot
+- Next.js
+- React
+- PostgreSQL
+- Git & GitHub
+
+## 📌 Projects
+
+### FleetPro
+Vehicle Fleet Management System built with Spring Boot, Next.js and PostgreSQL.
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/kavishanthn16-svg
